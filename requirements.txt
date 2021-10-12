@@ -10,7 +10,7 @@ Keras-Preprocessing==1.1.0
 keras-self-attention==0.41.0
 keras-transformer==0.31.0
 numpy==1.17.3
-opencv-python==4.1.1.26
+opencv-python==4.2.0.32
 Pillow==6.2.1
 PyYAML==5.1.2
 scipy==1.3.1
