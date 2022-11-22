@@ -11,7 +11,7 @@ keras-self-attention==0.41.0
 keras-transformer==0.31.0
 numpy==1.17.3
 opencv-python==4.1.1.26
-Pillow==6.2.1
+Pillow==9.3.0
 PyYAML==5.1.2
 scipy==1.3.1
 six==1.12.0
